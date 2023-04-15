@@ -26,7 +26,7 @@ public class FindOdd {
 
         }
 
-        //For a key in the map, if the value of that key is not even, return
+        //For each key in the map, if the value of that key is not even, return
         //that key.
         for (int currentKey : map.keySet()) {
 
