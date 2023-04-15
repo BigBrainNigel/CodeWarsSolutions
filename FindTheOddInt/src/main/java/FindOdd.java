@@ -1,6 +1,12 @@
 import java.util.HashMap;
 import java.util.Iterator;
 
+/**
+ *
+ * Created by Hayden Walker
+ *      4/15/2023
+ *
+ */
 public class FindOdd {
     public static int findIt(int[] a) {
 
